@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Samreen Afzaal</h1>
-<h3 align="center">A Passionate full stack devle</h3>
+<h3 align="center">A Passionate full stack developer.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
