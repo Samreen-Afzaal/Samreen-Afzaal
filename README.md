@@ -1,9 +1,88 @@
-<h1 align="center">Hello 👋, I'm Samreen Afzaal</h1>
-<h3 align="center">A Passionate full stack developer.</h3>
+<h1 align="center">Hi, I'm Samreen 👋</h1>
 
-<h3 align="left"></h3>
-<p align="left">
+<p align="center">
+  <strong>Software Engineering Student | MERN Stack Developer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building reliable and scalable software systems while learning how good software is designed, tested, and improved.
+</p>
+
+---
+
+<h2>👩‍💻 About Me</h2>
+
+<p>
+I'm a Software Engineering student and MERN Stack Developer who enjoys building web applications
+and understanding what happens behind the code.
+</p>
+
+<p>
+My current focus is on improving my development skills while learning more about
+<strong>system design, software architecture, testing, and software quality</strong>.
+</p>
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<p>
+  <strong>Frontend:</strong> HTML, CSS, JavaScript, React.js
+  <br>
+  <strong>Backend:</strong> Node.js, Express.js
+  <br>
+  <strong>Database:</strong> MongoDB, MySQL
+  <br>
+  <strong>Tools:</strong> Git, GitHub, Postman, VS Code
+</p>
+
+<h2>📚 Currently Learning</h2>
+
+<ul>
+  <li>System Design</li>
+  <li>Software Architecture</li>
+  <li>Software Testing & Quality Engineering</li>
+  <li>API Design and Backend Development</li>
+  <li>Blockchain & Smart Contracts</li>
+</ul>
+
+<h2>💡 Areas I'm Interested In</h2>
+
+<ul>
+  <li><strong>System Design:</strong> Understanding how large and scalable systems are designed.</li>
+  <li><strong>Software Architecture:</strong> Learning how to structure software that is maintainable and easy to extend.</li>
+  <li><strong>Software Quality:</strong> Testing, debugging, refactoring, and improving code quality.</li>
+  <li><strong>Blockchain:</strong> Exploring blockchain technology and smart contracts.</li>
+</ul>
+
+<h2>🚀 What You'll Find Here</h2>
+
+<p>
+This GitHub is where I <strong>learn, build, experiment, and document my progress</strong>.
+</p>
+
+<p>
+You'll find projects, practice work, notes, and experiments related to web development,
+backend development, APIs, databases, testing, system design, and software engineering.
+</p>
+
+<h2>🎯 My Approach</h2>
+
+<p align="center">
+  <strong>Learn → Build → Test → Improve → Repeat</strong>
+</p>
+
+<p align="center">
+  I believe the best way to learn software engineering is to build things,
+  understand the problems, and keep improving.
+</p>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    LinkedIn
+  </a>
+  &nbsp; | &nbsp;
+  <a href="YOUR_GITHUB_URL">
+    GitHub
+  </a>
+</p>
