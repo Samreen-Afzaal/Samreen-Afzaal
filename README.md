@@ -78,11 +78,11 @@ backend development, APIs, databases, testing, system design, and software engin
 <h2>📫 Connect With Me</h2>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/samreen-afzaal-36921438b">
     LinkedIn
   </a>
   &nbsp; | &nbsp;
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/Samreen-Afzaal">
     GitHub
   </a>
 </p>
